@@ -54,13 +54,13 @@
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LarissaFDS&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Davicsb&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 <img 
       align="center" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaFDS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davicsb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
@@ -68,9 +68,9 @@
 <div align="center">
 
 ## 🌐 Connect with Me 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belcands)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davicsb)
 </div>
 
     
-![snake gif](https://github.com/LarissaFDS/LarissaFDS/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/LarissaFDS/Davicsb/blob/output/github-snake-dark.svg)
 </div>
