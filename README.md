@@ -18,15 +18,6 @@
 
 <img 
     align="left" 
-    alt="Cpp" 
-    title="Cpp"     
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -41,6 +32,24 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Rust"
+    title="Rust"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <br/>
