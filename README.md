@@ -78,3 +78,5 @@
 
 ## 🌐 Connect with Me 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davicsb)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:davi.csb@gmail.com)
+
